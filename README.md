@@ -14,7 +14,7 @@ This project is a simple GUI-based calculator built using Python's tkinter modul
 
 1)Calculator Class: Contains all logic and GUI setup.
 
-Methods:
+**Methods:**
 
 1)show(value): Updates the display with the button input.
 
