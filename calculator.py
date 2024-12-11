@@ -43,7 +43,7 @@ class Calculator:
 
     def calculate(self):
         try:
-            # Safely evaluate the expression
+            #Evaluate the expression
             result = eval(self.current_expression)
             self.equation.set(result)
             self.current_expression = str(result)
