@@ -72,4 +72,4 @@ class Calculator:
 
 root = Tk()
 cal = Calculator(root)
-root.mainloop()
+# root.mainloop()
